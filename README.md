@@ -1,5 +1,7 @@
 Netflix Clone Using HTML and CSS
 
+To experience the Netflix clone you can access it via downloading or simply clone to vs code and watch Netflix-Clone.mp4 and enjoy.
+
 This project is a frontend clone of the popular streaming platform Netflix, built entirely using HTML and CSS. The goal of this project was to recreate the user interface of Netflix, providing a familiar and visually appealing experience for users.
 Features:
 
